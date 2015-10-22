@@ -1,0 +1,152 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <title>Portfolio</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <!-- build:css(.tmp) styles/main.css -->
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+        <!-- build:js scripts/vendor/modernizr.js -->
+        <script src="bower_components/modernizr/modernizr.js"></script>
+        <!-- endbuild -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <!--[if lt IE 10]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+
+        <div class="container-fluid header">
+            <ul class="nav nav-pills pull-right">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <i class="fa fa-hand-peace-o"></i><h3>Portfolio</h3>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row project">
+                <div class="col-md-6"><img src="images/Chess.png"></div>
+                <div class="col-md-6">
+                    <!-- TODO Data Binding -->
+                    <h2>Chess</h2>
+                    <h5>Date to date</h5>
+                    <p>This was our first assignment in Java.</p>
+
+                    <br>
+
+                    <a href="#logs" class="btn btn-primary" id="chess-full">Full Project</a>
+                    <div class="btn-group" role="group">
+                        <a href="#logs" class="btn btn-default" id="chess-0">Part 0</a>
+                        <a href="#logs" class="btn btn-default" id="chess-1">Part 1</a>
+                        <a href="#logs" class="btn btn-default" id="chess-2">Part 2</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row project">
+                <div class="col-md-6"><img src="images/CSAir.png"></div>
+                <div class="col-md-6">
+                    <!-- TODO Data Binding -->
+                    <h2>CS Air</h2>
+                    <h5>Date to date</h5>
+                    <p>Gulp is so much cooler man</p>
+
+                    <br>
+
+                    <a href="#logs" class="btn btn-primary" id="csair-full">Full Project</a>
+                    <div class="btn-group" role="group">
+                        <a href="#logs" class="btn btn-default" id="csair-0">Part 0</a>
+                        <a href="#logs" class="btn btn-default" id="csair-1">Part 1</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid" id="logs">
+            <h4>Logs</h4>
+            <table class="table">
+                <tr>
+                    <th>Assignment</th>
+                    <th>Author</th>
+                    <th>Date</th>
+                    <th>Revision</th>
+                    <th>Message</th>
+                </tr>
+                <tbody></tbody>
+            </table>
+            <script id="log-template" type="text/x-handlebars-template">
+            <tr class="commit">
+                <td>{{assignment}}</td>
+                <td>{{author}}</td>
+                <td>{{date}}</td>
+                <td><a href="#commit-info">{{revision}}</a></td>
+                <td>{{msg}}</td>
+            </tr>
+            </script>
+        </div>
+
+        <div class="container-fluid" id="commit-info">
+            <div class="row">
+                <div class="col-xs-5 content">
+                    <script id="commit-template" type="text/x-handlebars-template">
+                    <h3>Revision {{revision}}</h3>
+                    <h4>{{author}} authored on {{date}}</h4>
+                    <p>{{msg}}</p>
+                    <textarea class="form-control" rows="3" placeholder="Leave a comment!"></textarea>
+                    </script>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid footer">
+            <p>Lawrence "lhumphr2" Humphrey © 2015</p>
+        </div>
+
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>
+
+        <!-- build:js scripts/vendor.js -->
+        <script src="bower_components/jquery/dist/jquery.js"></script>
+        <script src="bower_components/lodash/dist/lodash.compat.js"></script>
+        <script src="bower_components/backbone/backbone.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.3/handlebars.min.js"></script>
+        <!-- endbuild -->
+
+        <!-- build:js scripts/plugins.js -->
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/affix.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/alert.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/button.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/carousel.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/collapse.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/dropdown.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/modal.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tooltip.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/popover.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/scrollspy.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tab.js"></script>
+        <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/transition.js"></script>
+        <!-- endbuild -->
+
+        <!-- build:js({.tmp,app}) scripts/main.js -->
+        <script src="scripts/main.js"></script>
+        <script src="scripts/templates.js"></script>
+        <script src="scripts/classes/log_entry.js"></script>
+        <script src="scripts/models/log.js"></script>
+        <script src="scripts/views/log.js"></script>
+        <script src="scripts/views/commit_info.js"></script>
+        <!-- endbuild -->
+</body>
+</html>

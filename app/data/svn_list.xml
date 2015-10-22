@@ -1,0 +1,2462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa15-cs242/lhumphr2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2257">
+<author>lhumphr2</author>
+<date>2015-09-03T14:48:23.121916Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/trees.java</name>
+<size>11907</size>
+<commit
+   revision="2042">
+<author>lhumphr2</author>
+<date>2015-09-02T23:52:13.145618Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/copyright</name>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>1291</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/vcs.xml</name>
+<size>164</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/workspace.xml</name>
+<size>34991</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess.iml</name>
+<size>1079</size>
+<commit
+   revision="4114">
+<author>lhumphr2</author>
+<date>2015-09-16T23:00:56.924442Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess/.idea</name>
+<commit
+   revision="4114">
+<author>lhumphr2</author>
+<date>2015-09-16T23:00:56.924442Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess/.idea/copyright</name>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/.idea/misc.xml</name>
+<size>1291</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/.idea/vcs.xml</name>
+<size>164</size>
+<commit
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/.idea/workspace.xml</name>
+<size>81152</size>
+<commit
+   revision="4114">
+<author>lhumphr2</author>
+<date>2015-09-16T23:00:56.924442Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/chess.iml</name>
+<size>1079</size>
+<commit
+   revision="4114">
+<author>lhumphr2</author>
+<date>2015-09-16T23:00:56.924442Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess/src</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess/src/com</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessBoard.class</name>
+<size>5461</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessGameUtils.class</name>
+<size>9217</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/ChessPiece.class</name>
+<size>5722</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/ChessPieceName.class</name>
+<size>1359</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Pawn.class</name>
+<size>2629</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Piece.class</name>
+<size>581</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Rook.class</name>
+<size>1085</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/Coord.class</name>
+<size>939</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/com/lhumphr2/chess/Player.class</name>
+<size>1568</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess/src/test</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/chess/src/test/chess</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/chess/src/test/chess/ChessGameTest.class</name>
+<size>1466</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com/lhumphr2</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com/lhumphr2/chess</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessBoard.java</name>
+<size>7502</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessGame.java</name>
+<size>1559</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessGameUtils.java</name>
+<size>18906</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Bishop.java</name>
+<size>749</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPiece.java</name>
+<size>7876</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPieceName.java</name>
+<size>220</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/King.java</name>
+<size>1916</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Knight.java</name>
+<size>1860</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Pawn.java</name>
+<size>3613</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Piece.java</name>
+<size>1087</size>
+<commit
+   revision="4401">
+<author>lhumphr2</author>
+<date>2015-09-17T13:56:40.947026Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Queen.java</name>
+<size>6781</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Rook.java</name>
+<size>884</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Timehopper.java</name>
+<size>1987</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/Coord.java</name>
+<size>504</size>
+<commit
+   revision="4401">
+<author>lhumphr2</author>
+<date>2015-09-17T13:56:40.947026Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/Player.java</name>
+<size>1512</size>
+<commit
+   revision="4401">
+<author>lhumphr2</author>
+<date>2015-09-17T13:56:40.947026Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/lhumphr2/chess/State.java</name>
+<size>378</size>
+<commit
+   revision="4401">
+<author>lhumphr2</author>
+<date>2015-09-17T13:56:40.947026Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/test</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/test/chess</name>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/chess/BishopTest.java</name>
+<size>33505</size>
+<commit
+   revision="4114">
+<author>lhumphr2</author>
+<date>2015-09-16T23:00:56.924442Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/chess/ChessGameTest.java</name>
+<size>812</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/chess/KingTest.java</name>
+<size>34813</size>
+<commit
+   revision="4140">
+<author>lhumphr2</author>
+<date>2015-09-17T01:29:23.282358Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/chess/KnightTest.java</name>
+<size>17106</size>
+<commit
+   revision="4140">
+<author>lhumphr2</author>
+<date>2015-09-17T01:29:23.282358Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/chess/PawnTest.java</name>
+<size>2905</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/chess/QueenTest.java</name>
+<size>34993</size>
+<commit
+   revision="4114">
+<author>lhumphr2</author>
+<date>2015-09-16T23:00:56.924442Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/chess/RookTest.java</name>
+<size>33187</size>
+<commit
+   revision="4114">
+<author>lhumphr2</author>
+<date>2015-09-16T23:00:56.924442Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/chess/TimehopperTest.java</name>
+<size>25667</size>
+<commit
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4164">
+<author>lhumphr2</author>
+<date>2015-09-17T02:51:22.468897Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>12903</size>
+<commit
+   revision="4164">
+<author>lhumphr2</author>
+<date>2015-09-17T02:51:22.468897Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5618">
+<author>lhumphr2</author>
+<date>2015-09-24T16:35:53.948954Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess.iml</name>
+<size>1079</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/manual_test.pdf</name>
+<size>231000</size>
+<commit
+   revision="5618">
+<author>lhumphr2</author>
+<date>2015-09-24T16:35:53.948954Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/.idea</name>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/.idea/copyright</name>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/.idea/misc.xml</name>
+<size>1291</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/.idea/vcs.xml</name>
+<size>164</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/.idea/workspace.xml</name>
+<size>69108</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/chess.iml</name>
+<size>1079</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src/com</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/controller</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/controller/TournamentController.class</name>
+<size>5756</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessBoard.class</name>
+<size>6304</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessGame.class</name>
+<size>2282</size>
+<commit
+   revision="5466">
+<author>lhumphr2</author>
+<date>2015-09-24T02:15:57.718529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessGameUtils.class</name>
+<size>10261</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Bishop.class</name>
+<size>899</size>
+<commit
+   revision="5422">
+<author>lhumphr2</author>
+<date>2015-09-23T21:14:03.109391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$GetOutOfCheckException.class</name>
+<size>664</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$OriginEqualsDestination.class</name>
+<size>667</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$PieceObstructingYourMove.class</name>
+<size>670</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$PutsYouInCheckException.class</name>
+<size>667</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.class</name>
+<size>7038</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPieceName.class</name>
+<size>1395</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/King.class</name>
+<size>2215</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Knight.class</name>
+<size>2176</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Pawn.class</name>
+<size>2768</size>
+<commit
+   revision="5422">
+<author>lhumphr2</author>
+<date>2015-09-23T21:14:03.109391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Piece.class</name>
+<size>605</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Queen.class</name>
+<size>3954</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Rook.class</name>
+<size>1011</size>
+<commit
+   revision="5422">
+<author>lhumphr2</author>
+<date>2015-09-23T21:14:03.109391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Timehopper.class</name>
+<size>2565</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Coord.class</name>
+<size>957</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Player.class</name>
+<size>1672</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/State.class</name>
+<size>546</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Tournament.class</name>
+<size>2566</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/Main.class</name>
+<size>1414</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView$1.class</name>
+<size>1372</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView$2.class</name>
+<size>1245</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView.class</name>
+<size>11223</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src/test</name>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/chess/src/test/chess</name>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/test/chess/BishopTest.class</name>
+<size>18901</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/test/chess/ChessGameTest.class</name>
+<size>1476</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/test/chess/KingTest.class</name>
+<size>20586</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/test/chess/KnightTest.class</name>
+<size>10747</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/test/chess/PawnTest.class</name>
+<size>3069</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/test/chess/QueenTest.class</name>
+<size>20227</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/test/chess/RookTest.class</name>
+<size>18936</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/chess/src/test/chess/TimehopperTest.class</name>
+<size>8916</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/lhumphr2</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/lhumphr2/chess</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/lhumphr2/chess/ChessPieces</name>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/lhumphr2/chess/controller</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/controller/TournamentController.java</name>
+<size>6193</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/lhumphr2/chess/model</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessBoard.java</name>
+<size>8161</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessGame.java</name>
+<size>2046</size>
+<commit
+   revision="5466">
+<author>lhumphr2</author>
+<date>2015-09-24T02:15:57.718529Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessGameUtils.java</name>
+<size>20015</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Bishop.java</name>
+<size>715</size>
+<commit
+   revision="5422">
+<author>lhumphr2</author>
+<date>2015-09-23T21:14:03.109391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.java</name>
+<size>8828</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/ChessPieceName.java</name>
+<size>226</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/King.java</name>
+<size>1669</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Knight.java</name>
+<size>1884</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Pawn.java</name>
+<size>3670</size>
+<commit
+   revision="5422">
+<author>lhumphr2</author>
+<date>2015-09-23T21:14:03.109391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Piece.java</name>
+<size>1099</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Queen.java</name>
+<size>6772</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Rook.java</name>
+<size>758</size>
+<commit
+   revision="5422">
+<author>lhumphr2</author>
+<date>2015-09-23T21:14:03.109391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Timehopper.java</name>
+<size>2017</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/Coord.java</name>
+<size>510</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/Player.java</name>
+<size>1581</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/State.java</name>
+<size>390</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/model/Tournament.java</name>
+<size>2516</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/lhumphr2/chess/view</name>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/view/Main.java</name>
+<size>1279</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/view/State.java</name>
+<size>301</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/lhumphr2/chess/view/TournamentView.java</name>
+<size>14530</size>
+<commit
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/test</name>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/test/chess</name>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/chess/BishopTest.java</name>
+<size>33021</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/chess/ChessGameTest.java</name>
+<size>810</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/chess/KingTest.java</name>
+<size>34427</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/chess/KnightTest.java</name>
+<size>17129</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/chess/PawnTest.java</name>
+<size>2941</size>
+<commit
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/chess/QueenTest.java</name>
+<size>34613</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/chess/RookTest.java</name>
+<size>32703</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/chess/TimehopperTest.java</name>
+<size>25495</size>
+<commit
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6901">
+<author>lhumphr2</author>
+<date>2015-10-06T01:49:53.776771Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/app</name>
+<commit
+   revision="6901">
+<author>lhumphr2</author>
+<date>2015-10-06T01:49:53.776771Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/city.rb</name>
+<size>852</size>
+<commit
+   revision="6836">
+<author>lhumphr2</author>
+<date>2015-10-04T00:44:41.828607Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/app/data</name>
+<commit
+   revision="6836">
+<author>lhumphr2</author>
+<date>2015-10-04T00:44:41.828607Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/data/cmi_hub.json</name>
+<size>1104</size>
+<commit
+   revision="6836">
+<author>lhumphr2</author>
+<date>2015-10-04T00:44:41.828607Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/data/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="6836">
+<author>lhumphr2</author>
+<date>2015-10-04T00:44:41.828607Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/data/saved.json</name>
+<size>16612</size>
+<commit
+   revision="6836">
+<author>lhumphr2</author>
+<date>2015-10-04T00:44:41.828607Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/endpoint_city.rb</name>
+<size>239</size>
+<commit
+   revision="6214">
+<author>lhumphr2</author>
+<date>2015-09-29T03:50:41.723528Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/graph.rb</name>
+<size>9552</size>
+<commit
+   revision="6901">
+<author>lhumphr2</author>
+<date>2015-10-06T01:49:53.776771Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/graph_stats.rb</name>
+<size>3455</size>
+<commit
+   revision="6836">
+<author>lhumphr2</author>
+<date>2015-10-04T00:44:41.828607Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/location.rb</name>
+<size>263</size>
+<commit
+   revision="6214">
+<author>lhumphr2</author>
+<date>2015-09-29T03:50:41.723528Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/main.rb</name>
+<size>275</size>
+<commit
+   revision="6836">
+<author>lhumphr2</author>
+<date>2015-10-04T00:44:41.828607Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="6214">
+<author>lhumphr2</author>
+<date>2015-09-29T03:50:41.723528Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/app/user_interface.rb</name>
+<size>9769</size>
+<commit
+   revision="6901">
+<author>lhumphr2</author>
+<date>2015-10-06T01:49:53.776771Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/tests</name>
+<commit
+   revision="6482">
+<author>lhumphr2</author>
+<date>2015-10-01T15:03:14.724050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/tests/city_test.rb</name>
+<size>1056</size>
+<commit
+   revision="6244">
+<author>lhumphr2</author>
+<date>2015-09-30T04:29:01.614821Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/tests/graph_stats_test.rb</name>
+<size>694</size>
+<commit
+   revision="6482">
+<author>lhumphr2</author>
+<date>2015-10-01T15:03:14.724050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/tests/graph_test.rb</name>
+<size>1326</size>
+<commit
+   revision="6244">
+<author>lhumphr2</author>
+<date>2015-09-30T04:29:01.614821Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/tests/location_test.rb</name>
+<size>920</size>
+<commit
+   revision="6244">
+<author>lhumphr2</author>
+<date>2015-09-30T04:29:01.614821Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/.idea</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/.idea/.name</name>
+<size>3</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/.idea/copyright</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/.idea/misc.xml</name>
+<size>2968</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/.idea/modules.xml</name>
+<size>246</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/.idea/vcs.xml</name>
+<size>164</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/.idea/workspace.xml</name>
+<size>39729</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/bin</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/bin/lanSimulation</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/bin/lanSimulation/LANSimulation.class</name>
+<size>4544</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/bin/lanSimulation/Network.class</name>
+<size>7873</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/bin/lanSimulation/internals</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/bin/lanSimulation/internals/Node.class</name>
+<size>1218</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/bin/lanSimulation/tests</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1082</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9528</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/doc</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/hw0.iml</name>
+<size>908</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/out</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/out/production</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/out/production/hw0</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/out/production/hw0/lanSimulation</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/out/production/hw0/lanSimulation/LANSimulation.class</name>
+<size>4492</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/out/production/hw0/lanSimulation/Network.class</name>
+<size>7860</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/out/production/hw0/lanSimulation/internals</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/out/production/hw0/lanSimulation/internals/Node.class</name>
+<size>1213</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/out/production/hw0/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/out/production/hw0/lanSimulation/tests</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/out/production/hw0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1074</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/out/production/hw0/lanSimulation/tests/LANTests.class</name>
+<size>10125</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/src</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/src/lanSimulation</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/Network.java</name>
+<size>13526</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/src/lanSimulation/internals</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/internals/Node.java</name>
+<size>2406</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>hw0/src/lanSimulation/tests</name>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="1264">
+<author>lhumphr2</author>
+<date>2015-08-30T20:06:56.160550Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="734">
+<author>lhumphr2</author>
+<date>2015-08-28T15:58:47.429126Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="746">
+<author>lhumphr2</author>
+<date>2015-08-28T16:14:19.329221Z</date>
+</commit>
+</entry>
+</list>
+</lists>

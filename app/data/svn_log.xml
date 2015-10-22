@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="6901">
+<author>lhumphr2</author>
+<date>2015-10-06T01:49:53.776771Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/user_interface.rb</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/graph.rb</path>
+</paths>
+<msg>route details theoretically works don't want to test lol</msg>
+</logentry>
+<logentry
+   revision="6836">
+<author>lhumphr2</author>
+<date>2015-10-04T00:44:41.828607Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/app/data/saved.json</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/graph.rb</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment2.0/app/main.rb</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/app/data/cmi_hub.json</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/app/data/map_data.json</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment2.0/app/data</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment2.0/app/city.rb</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment2.0/app/user_interface.rb</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/graph_stats.rb</path>
+</paths>
+<msg>done with most of part one and two</msg>
+</logentry>
+<logentry
+   revision="6482">
+<author>lhumphr2</author>
+<date>2015-10-01T15:03:14.724050Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/user_interface.rb</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment2.0/tests/graph_stats_test.rb</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment2.0/app/main.rb</path>
+</paths>
+<msg>i want to implement a feature ok</msg>
+</logentry>
+<logentry
+   revision="6276">
+<author>lhumphr2</author>
+<date>2015-09-30T17:46:02.111330Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/user_interface.rb</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/tests/graph_stats_test.rb</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/graph.rb</path>
+</paths>
+<msg>done, basically</msg>
+</logentry>
+<logentry
+   revision="6244">
+<author>lhumphr2</author>
+<date>2015-09-30T04:29:01.614821Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment2.0/app/city.rb</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/tests/city_test.rb</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/tests/location_test.rb</path>
+<path
+   action="D"
+   kind="dir">/lhumphr2/Assignment2.0/.idea</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/user_interface.rb</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/graph_stats.rb</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment2.0/tests</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment2.0/app/graph.rb</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/tests/graph_test.rb</path>
+</paths>
+<msg>tests and finished implementation of core statistics</msg>
+</logentry>
+<logentry
+   revision="6214">
+<author>lhumphr2</author>
+<date>2015-09-29T03:50:41.723528Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/app/graph.rb</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/app/city.rb</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/app/endpoint_city.rb</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/app/location.rb</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/app/map_data.json</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment2.0</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/.idea/CSAir.iml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/app/graph_stats.rb</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/app/main.rb</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment2.0/.idea</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment2.0/app</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment2.0/app/user_interface.rb</path>
+</paths>
+<msg>inital commit</msg>
+</logentry>
+<logentry
+   revision="5618">
+<author>lhumphr2</author>
+<date>2015-09-24T16:35:53.948954Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/manual_test.pdf</path>
+</paths>
+<msg>test plan</msg>
+</logentry>
+<logentry
+   revision="5488">
+<author>lhumphr2</author>
+<date>2015-09-24T03:59:56.438468Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$PutsYouInCheckException.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/view/TournamentView.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Tournament.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessBoard.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/controller/TournamentController.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$OriginEqualsDestination.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/controller/TournamentController.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/view/State.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView$1.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/Tournament.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$GetOutOfCheckException.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessBoard.java</path>
+</paths>
+<msg>undo basically works</msg>
+</logentry>
+<logentry
+   revision="5466">
+<author>lhumphr2</author>
+<date>2015-09-24T02:15:57.718529Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/controller/TournamentController.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/Tournament.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/view/TournamentView.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Tournament.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/controller/TournamentController.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessGame.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView.class</path>
+</paths>
+<msg>broke scoreboard; about to implement undo</msg>
+</logentry>
+<logentry
+   revision="5422">
+<author>lhumphr2</author>
+<date>2015-09-23T21:14:03.109391Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Tournament.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/controller/TournamentController.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$OriginEqualsDestination.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/Tournament.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$GetOutOfCheckException.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Rook.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/view/TournamentView.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessBoard.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Bishop.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/controller/TournamentController.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView$1.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$PutsYouInCheckException.class</path>
+</paths>
+<msg>oh my god obvious bugs are goneeeeee</msg>
+</logentry>
+<logentry
+   revision="5310">
+<author>lhumphr2</author>
+<date>2015-09-23T01:37:43.491800Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$GetOutOfCheckException.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/RookTest.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/view/TournamentView.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/TimehopperTest.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/QueenTest.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessGameUtils.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/controller/TournamentController.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/test/chess/RookTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/BishopTest.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/KnightTest.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView$1.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/test/chess/TimehopperTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/test/chess/QueenTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/KingTest.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$PutsYouInCheckException.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessGameUtils.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Tournament.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/controller/TournamentController.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/test/chess/BishopTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/test/chess/KnightTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessGame.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.2/src/test/chess/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$OriginEqualsDestination.class</path>
+</paths>
+<msg>I MOVED A PIECE</msg>
+</logentry>
+<logentry
+   revision="5245">
+<author>lhumphr2</author>
+<date>2015-09-22T05:07:32.657925Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessGameUtils.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/Coord.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/KnightTest.class</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/King.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/test/chess/QueenTest.java</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$PutsYouInCheckException.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/test/chess/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/King.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/test/chess/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/Tournament.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/Player.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$GetOutOfCheckException.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessGame.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/test/chess/ChessGameTest.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/RookTest.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Queen.class</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/out/production</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/QueenTest.class</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/controller</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/src/com</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/test/chess/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView$1.class</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/src/test/chess</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/Main.class</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/view</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/chess.iml</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Coord.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/out/production/chess/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPieceName.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Timehopper.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessBoard.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/test/chess/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Knight.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Piece.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/controller/TournamentController.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/ChessPieceName.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Timehopper.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/test/chess/TimehopperTest.java</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/ChessPieces</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/KingTest.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessGameUtils.java</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Tournament.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/Player.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/test/chess/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$OriginEqualsDestination.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/Rook.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/controller</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/State.class</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/src/test</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/out</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessBoard.java</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/test</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view/TournamentView$2.class</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/State.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/out/production/chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/model/ChessPieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/controller/TournamentController.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/ChessGameTest.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessGame.class</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/.idea</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/chess.iml</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/view</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/view/Main.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.2/src/com/lhumphr2/chess/view/TournamentView.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/test/chess/TimehopperTest.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.2/out/production/chess/src/com/lhumphr2/chess/model/ChessPieces/ChessPiece$PieceObstructingYourMove.class</path>
+</paths>
+<msg>svn is such a pain</msg>
+</logentry>
+<logentry
+   revision="4669">
+<author>lhumphr2</author>
+<date>2015-09-18T00:12:11.513356Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Pawn.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/Coord.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Rook.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/test/chess/ChessGameTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/ChessPiece.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/ChessPieceName.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/test/chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessGameUtils.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Rook.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Piece.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPiece.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Timehopper.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPieceName.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Queen.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/test/chess/TimehopperTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessGameUtils.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/Player.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/test/chess/ChessGameTest.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/King.java</path>
+</paths>
+<msg>new piece and refactor; added chessgame</msg>
+</logentry>
+<logentry
+   revision="4401">
+<author>lhumphr2</author>
+<date>2015-09-17T13:56:40.947026Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Piece.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/Coord.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPieceName.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/Player.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/State.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Bishop.java</path>
+</paths>
+<msg>mostly done with old stuff; about to implement new pieces</msg>
+</logentry>
+<logentry
+   revision="4164">
+<author>lhumphr2</author>
+<date>2015-09-17T02:51:22.468897Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.1</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>initial commit</msg>
+</logentry>
+<logentry
+   revision="4140">
+<author>lhumphr2</author>
+<date>2015-09-17T01:29:23.282358Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/test/chess/KnightTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/King.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/test/chess/KingTest.java</path>
+</paths>
+<msg>theoretically knight and king work</msg>
+</logentry>
+<logentry
+   revision="4114">
+<author>lhumphr2</author>
+<date>2015-09-16T23:00:56.924442Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/test/chess/QueenTest.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessGameUtils.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/test/chess/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/test/chess/ChessGameTest.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/chess.iml</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/Player.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/chess.iml</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/test/chess/ChessGameTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/ChessPiece.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessBoard.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessGameUtils.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/test/chess/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Queen.java</path>
+</paths>
+<msg>queen, bishop, rook are theoretically working</msg>
+</logentry>
+<logentry
+   revision="3948">
+<author>lhumphr2</author>
+<date>2015-09-16T01:02:58.064047Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessGameUtils.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/Player.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/test/chess/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/test/chess/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/test/chess/ChessGameTest.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/King.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/test/chess/KingTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Pawn.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Rook.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/ChessPiece.class</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/test/chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/test/chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessGameUtils.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Piece.class</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPiece.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/test/chess/RookTest.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Queen.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessBoard.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/test/chess/QueenTest.java</path>
+</paths>
+<msg>pieces of right team in right spot; test stubs</msg>
+</logentry>
+<logentry
+   revision="3878">
+<author>lhumphr2</author>
+<date>2015-09-15T16:03:59.522487Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/test/chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessGameUtils.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/State.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Knight.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Piece.java</path>
+<path
+   action="M"
+   kind="dir">/lhumphr2/Assignment1.0</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/King.java</path>
+<path
+   action="M"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/Player.java</path>
+</paths>
+<msg>pieces are all done-ish. check logic done-ish</msg>
+</logentry>
+<logentry
+   revision="3264">
+<author>lhumphr2</author>
+<date>2015-09-10T16:18:32.279884Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/King.java</path>
+</paths>
+<msg>added knight and king</msg>
+</logentry>
+<logentry
+   revision="3236">
+<author>lhumphr2</author>
+<date>2015-09-10T13:45:21.935708Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessGameUtils.class</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0/out/production/chess</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPiece.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/ChessPieceName.java</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0/src/test</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0/out/production/chess/src/com</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/src/test/chess</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessGameUtils.java</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/Player.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/.idea/.name</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0/out/production/chess/.idea</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/Coord.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/chess.iml</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/Player.java</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/src</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Rook.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/test/chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0/out/production/chess/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/ChessPiece.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/Coord.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/Piece.class</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/src/com</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/out</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessBoard.java</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/src/test</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0/out/production/chess/src/test/chess</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/.idea</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/out/production/chess/src/test/chess/ChessGameTest.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/chess.iml</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/src</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/Assignment1.0/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/Assignment1.0/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessPieces/ChessPieceName.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/Assignment1.0/out/production</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/src/com/lhumphr2/chess/ChessPieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/Assignment1.0/out/production/chess/src/com/lhumphr2/chess/ChessBoard.class</path>
+</paths>
+<msg>initial commit; rook test case works</msg>
+</logentry>
+<logentry
+   revision="2257">
+<author>lhumphr2</author>
+<date>2015-09-03T14:48:23.121916Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/lhumphr2/my_code</path>
+<path
+   copyfrom-path="/lhumphr2/my_code"
+   copyfrom-rev="2256"
+   action="A"
+   kind="dir">/lhumphr2/Assignment0</path>
+</paths>
+<msg>changed bc that's what it's supposed to be submitted under</msg>
+</logentry>
+<logentry
+   revision="2042">
+<author>lhumphr2</author>
+<date>2015-09-02T23:52:13.145618Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lhumphr2/my_code</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/my_code/trees.java</path>
+</paths>
+<msg>yo dude</msg>
+</logentry>
+<logentry
+   revision="1365">
+<author>lhumphr2</author>
+<date>2015-08-31T00:37:10.161823Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/hw0/src</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/hw0/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/useOutput.txt</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/out/production/hw0/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/out/production/hw0/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/doc</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/src/lanSimulation/tests</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/bin</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/out/production/hw0/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/hw0/out/production/hw0/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/out/production/hw0/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/out/production/hw0/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/bin/lanSimulation/Network.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/hw0/out/production/hw0</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/hw0/out/production</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/hw0</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/doc/toDoList</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/hw0/out</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/out/production/hw0/lanSimulation/Network.class</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/hw0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/hw0/out/production/hw0/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/hw0.iml</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/lhumphr2/hw0/out/production/hw0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="dir">/lhumphr2/hw0/.idea</path>
+</paths>
+<msg>initial commit</msg>
+</logentry>
+<logentry
+   revision="1264">
+<author>lhumphr2</author>
+<date>2015-08-30T20:06:56.160550Z</date>
+<paths>
+<path
+   action="M"
+   kind="dir">/lhumphr2/shopping</path>
+</paths>
+<msg>Ignored the list3.txt from all future commits</msg>
+</logentry>
+<logentry
+   revision="750">
+<author>lhumphr2</author>
+<date>2015-08-28T16:20:37.740023Z</date>
+<paths>
+<path
+   copyfrom-path="/lhumphr2/grocery"
+   copyfrom-rev="749"
+   action="A"
+   kind="dir">/lhumphr2/shopping</path>
+<path
+   kind="dir"
+   action="D">/lhumphr2/grocery</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="748">
+<author>lhumphr2</author>
+<date>2015-08-28T16:17:16.549263Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lhumphr2/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="747">
+<author>lhumphr2</author>
+<date>2015-08-28T16:15:54.661633Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/lhumphr2/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="746">
+<author>lhumphr2</author>
+<date>2015-08-28T16:14:19.329221Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lhumphr2/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="744">
+<author>lhumphr2</author>
+<date>2015-08-28T16:10:48.901641Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="743">
+<author>lhumphr2</author>
+<date>2015-08-28T16:08:01.083678Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="740">
+<author>lhumphr2</author>
+<date>2015-08-28T16:06:21.187145Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lhumphr2/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="737">
+<author>lhumphr2</author>
+<date>2015-08-28T16:01:53.420675Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="734">
+<author>lhumphr2</author>
+<date>2015-08-28T15:58:47.429126Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lhumphr2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit </msg>
+</logentry>
+<logentry
+   revision="731">
+<author>lhumphr2</author>
+<date>2015-08-28T15:48:51.674138Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lhumphr2/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/lhumphr2/grocery</path>
+<path
+   kind="file"
+   action="A">/lhumphr2/grocery/list1.txt</path>
+</paths>
+<msg>first commit</msg>
+</logentry>
+<logentry
+   revision="104">
+<author>root</author>
+<date>2015-08-25T21:58:56.031414Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lhumphr2</path>
+</paths>
+<msg>created directory lhumphr2</msg>
+</logentry>
+</log>
